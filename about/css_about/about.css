@@ -1,0 +1,22 @@
+body {
+    background-color: #F9EBE7;
+}
+
+#aboutme {
+width: 1272px;
+height: 649px;
+color: #000;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+background: #AAC3D2;
+}
+
+#aboutsectiontwo {
+color: #000;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}

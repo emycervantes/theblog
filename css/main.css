@@ -1,0 +1,71 @@
+
+body {
+    background-color: #F9EBE7;
+}
+
+header {
+width: 671px;
+height: 671px;
+aspect-ratio: 1/1;
+background: url(<path-to-image>) #AAC3D2 / cover no-repeat;
+}
+
+#opening {
+width: 1187px;
+height: 684px;
+background: #AAC3D2;
+color: #000;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+#one{
+width: 1224px;
+height: 901px;
+border-radius: 103px;
+background: #AAC3D2;
+color: #000;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+#two {
+width: 1224px;
+height: 893px;
+border-radius: 131px;
+background: #AAC3D2;
+color: #141313;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+#three {
+width: 1218px;
+height: 715px;
+border-radius: 78px;
+background: #AAC3D2;
+color: #191818;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+footer {
+width: 1224px;
+height: 184px;
+background: #8EA28E;
+color: #0F0F0F;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
